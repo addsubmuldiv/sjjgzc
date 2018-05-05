@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{92797A42-0D41-4E19-ABCF-D6963CB73568}</ProjectGuid>
-    <RootNamespace>ReversingLinkedList</RootNamespace>
+    <ProjectGuid>{32AA39A1-906D-4E9E-ADD5-E02BFB41AEF6}</ProjectGuid>
+    <RootNamespace>asd</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,10 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="reversing.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="in1.txt" />
+    <ClCompile Include="asd.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{92797A42-0D41-4E19-ABCF-D6963CB73568}</ProjectGuid>
-    <RootNamespace>ReversingLinkedList</RootNamespace>
+    <ProjectGuid>{E6B6FCFF-CDD4-4936-925D-1CFB54057F94}</ProjectGuid>
+    <RootNamespace>Isomorphism</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,10 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="reversing.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="in1.txt" />
+    <ClCompile Include="isomorphism.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
